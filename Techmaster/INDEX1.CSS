@@ -1,0 +1,18 @@
+
+
+.HEAD{margin: 20PX;}
+#I{margin: auto;}
+
+.HEAD {
+    font-weight: bold;
+    font-size: 36PX;
+}
+
+.CLASS {
+    list-style: square;
+}
+
+#IMG {
+    width: 900px;
+    margin: auto;
+}
